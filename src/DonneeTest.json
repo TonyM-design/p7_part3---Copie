@@ -1,0 +1,47 @@
+[
+    {
+       "restaurantName":"La Vianderie",
+       "address":"39 Rue des Petites Écuries, 75010 Paris",
+       "lat":44.00, 
+       "long":-0.643045,
+       "ratings":[
+          {
+             "stars":4,
+             "comment":"Un excellent restaurant, j'y reviendrai ! Par contre il vaut mieux aimer la viande."
+          },
+          {
+             "stars":5,
+             "comment":"Tout simplement mon restaurant préféré !"
+          }
+       ]
+    },
+    {
+       "restaurantName":"La Pizzeria",
+       "address":"4 Rue Lamarck, 75018 Paris",
+       "lat":44.91370, 
+       "long":-0.6355679999999999,
+       "ratings":[
+          {
+             "stars":5,
+             "comment":"Une minuscule pizzeria délicieuse cachée juste à côté du Sacré choeur !"
+          },
+          {
+             "stars":3,
+             "comment":"J'ai trouvé ça correct, sans plus"
+          }
+       ]
+    },
+    {
+       "restaurantName":"La Sandwicherie",
+       "address":"1 rue du nouveau test",
+       "lat":46.916625, 
+       "long":-1.647497,
+       "ratings":[
+          {
+             "stars":2,
+             "comment":"Pas cher et super sandwich !"
+          }
+ 
+       ]
+    }
+ ]
